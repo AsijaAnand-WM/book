@@ -46,7 +46,7 @@ graphic_gem
 command_line_tools.pdf
 advanced_bash.pdf
 linux_filesystem_hierarchy.pdf
-linux_programmer_guide.pdf
-linux_system_administrator_guide.pdf
-linux_network_administrators_guide.pdf
-linux_kernel_module_programming_guide.pdf
+# linux_programmer_guide.pdf
+# linux_system_administrator_guide.pdf
+# linux_network_administrators_guide.pdf
+# linux_kernel_module_programming_guide.pdf
