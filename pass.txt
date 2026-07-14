@@ -1,0 +1,52 @@
+[Everyday about 2hrs]
+tour_cpp.pdf
+effective_cpp.pdf
+effectiv_modern_cpp.pdf
+practice_of_programming.pdf
+programming_pearls.pdf
+cpp_software_design_principles.pdf
+cpp_template_complete_guide.pdf
+cpp_concurrency_in_action.pdf
+data_intensivea_pplications.pdf
+
+[Everyday about 2hrs]
+code_the_hidden_language.pdf
+computer_system_programmer_prespective.pdf
+ostep.pdf
+optimizing_software_cpp.pdf
+readings_in_database_systems.pdf
+tcp_ip_illustrated.pdf
+
+
+[Read Whenever Needed]
+usaco & algorithm_design_manual.pdf
+daily_cpp_interview_questions.pdf
+structure_interpretation_computer_programs.pdf
+crafting_interpreters.pdf
+why_machine_learn.pdf
+
+[After 1 yr (quant prep later)]
+practical_guide_to_quantitative_finance_interviews.pdf
+fifty_problems_probability.pdf
+maths_foComputer Networksr_computer_science.pdf
+
+[Freetime like weekends etc]
+game_programming_pattern.pdf
+game_engine_architecture.pdf
+data_oriented_game_programming.pdf
+real_time_collision_detection.pdf
+game_physics_engine_development.pdf
+ai_for_games.pdf
+game ai pro
+graphic_gem
+# computer_graphics_principles_and_practice.pdf
+# maths_for_3d_game_dev.pdf
+
+[Again in freetime]
+command_line_tools.pdf
+advanced_bash.pdf
+linux_filesystem_hierarchy.pdf
+linux_programmer_guide.pdf
+linux_system_administrator_guide.pdf
+linux_network_administrators_guide.pdf
+linux_kernel_module_programming_guide.pdf

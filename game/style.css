@@ -1,0 +1,15 @@
+*{
+    border-radius: 0px !important;
+    font-family: monospace;
+}
+
+html {
+    filter:
+        brightness(0.8) 
+        contrast(1)
+        grayscale(0.1)
+        sepia(0.7)
+        ;
+
+}
+
